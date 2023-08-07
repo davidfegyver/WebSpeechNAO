@@ -1,3 +1,11 @@
+<!---
+Metaadatok
+Készítő: Fegyver Dávid
+Időtartam: 2óra
+Nehézség: Közepes
+Korcsoport: 14+
+-->
+
 # The future is NAO – Hogyan működött NAO hangfelismerője?
 
 ## A kezdetek
