@@ -13,9 +13,9 @@
 ## A kezdetek
 Tavaly ősszel, a [2022-es Formáld a Világod Verseny](https://formaldavilagod.hu/2022/#verseny) után egy hírlevelet kaptam e-mailben a C3-tól. Egy meghívó állt benne egy workshop-sorozatra. Lehetőséget kaptunk, hogy egy német szociális robottal együtt dolgozhassunk és egy kiállítás részeként egy feladatot találjunk ki neki. Rögtön válaszoltam, hiszen nagyon érdekel a programozás és a robotika. 
 
-Az első workshopon online találkoztam a csapattal. Az elején kérdéseket elemeztünk a robotok az emberek kapcsolatáról, elgondolkoztunk, hogy a jövőben hogy fog kinézni az MI és a robot technológia. A második workshopon már a feladaton kezdtünk el gondolkozni. Felmerült egy interjúztató robot, egy szlenges MI, és még sok más is. A végső ötlet a következő lett: Az [AmITheAssHole](https://www.reddit.com/r/AmItheAsshole/) subredditből kiindulva, egy "Én voltam-e a rosszfej" kérdésre válaszoló robot. 
+Az első workshopon online találkoztam a csapattal. Az elején kérdéseket elemeztünk a robotok és az emberek kapcsolatáról, elgondolkoztunk, hogy a jövőben hogy fog kinézni az MI és a robot technológia. A második workshopon már a feladaton kezdtünk el gondolkozni. Felmerült egy interjúztató robot, egy szlenges MI, és még sok más is. A végső ötlet a következő lett: Az [AmITheAssHole](https://www.reddit.com/r/AmItheAsshole/) subredditből kiindulva, egy "Én voltam-e a rosszfej" kérdésre válaszoló robot. 
 
-Később, Budapesten végre élőben is találkoztunk. Itt elkezdtünk dolgozni a projekten. Volt aki szövegeket írt, néhányan programoztunk, páran a kiállítást tervezték, szóval egy igazi csapatmunka részese lehettem :)
+Később Budapesten végre élőben is találkoztunk. Itt elkezdtünk dolgozni a projekten. Volt aki szövegeket írt, néhányan programoztunk, páran a kiállítást tervezték, szóval egy igazi csapatmunka részese lehettem :)
 
 A robotos kiállításunkat itt tudjátok megtekinteni: https://jateknemjatek.c3.hu/#nao
 
@@ -160,7 +160,7 @@ recognition.onerror = function (event) {
 }
 ```
 
-## Gratula 🎉
+## Köszönöm a figyelmet🤖
 
 És lásd, a Web Speech API ereje már a kezeidben van! :) 
 
