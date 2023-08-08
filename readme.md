@@ -1,12 +1,14 @@
-<!---
-Metaadatok
-Készítő: Fegyver Dávid
-Időtartam: 2óra
-Nehézség: Közepes
-Korcsoport: 14+
--->
+<h1 align="center">The future is NAO – Hogyan működött NAO hangfelismerője?</h1>
 
-# The future is NAO – Hogyan működött NAO hangfelismerője?
+<p align="center">
+    <img src="./assets/project-artist.png" height=20 alt="Készítő"></img> Fegyver Dávid • 
+    <img src="./assets/project-age-group.png" height=20 alt="Korosztály"></img> 14+ • 
+    <img src="./assets/project-difficulty.png" height=20 alt="Nehézség"></img> Közepes
+</p>
+
+<p align="center">
+    <img src="./assets/NAO_story_2.png" height=300></img>
+</p>
 
 ## A kezdetek
 Tavaly ősszel, a [2022-es Formáld a Világod Verseny](https://formaldavilagod.hu/2022/#verseny) után egy hírlevelet kaptam e-mailben a C3-tól. Egy meghívó állt benne egy workshop-sorozatra. Lehetőséget kaptunk, hogy egy német szociális robottal együtt dolgozhassunk és egy kiállítás részeként egy feladatot találjunk ki neki. Rögtön válaszoltam, hiszen nagyon érdekel a programozás és a robotika. 
